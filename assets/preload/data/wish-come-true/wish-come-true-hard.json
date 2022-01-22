@@ -1,0 +1,12743 @@
+{
+	"song": {
+		"player1": "bf",
+		"player2": "vicky",
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"altAnim": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						24676.3392857143,
+						1,
+						160.714285714286,
+						"Glitch"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						25008.4821428572,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						24958.9285714286,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						24925.4464285714,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						24877.2321428572,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						25028.5714285714,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						25005.8035714286,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						24966.9642857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						24937.5,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						25071.4285714286,
+						1,
+						107.142857142857,
+						"Glitch"
+					],
+					[
+						25392.8571428572,
+						3,
+						133.928571428571,
+						"Glitch"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						25767.8571428572,
+						2,
+						107.142857142857,
+						"Glitch"
+					],
+					[
+						25928.5714285714,
+						2,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						26035.7142857143,
+						2,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						26142.8571428572,
+						2,
+						80.3571428571429,
+						"Glitch"
+					],
+					[
+						26089.2857142857,
+						0,
+						267.857142857143,
+						"Glitch"
+					],
+					[
+						26464.2857142857,
+						1,
+						241.071428571429,
+						"Glitch"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						27267.8571428572,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						27321.4285714286,
+						6,
+						107.142857142857,
+						"Glitch"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						27620.0892857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27570.5357142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27525,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27495.5357142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27462.0535714286,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27429.9107142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27650.8928571429,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						27629.4642857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						27579.9107142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						27547.7678571429,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						27526.3392857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						27723.2142857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						27693.75,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						27652.2321428572,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						27796.875,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						27747.3214285714,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						27695.0892857143,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						27806.25,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27774.1071428572,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27729.9107142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27883.9285714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						27862.5,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						27845.0892857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						27944.1964285714,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27918.75,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						27894.6428571429,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						28080.8035714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						28074.1071428572,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						28035.2678571429,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						27996.4285714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						28131.6964285714,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						28104.9107142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						28075.4464285714,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						28054.0178571429,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						28229.4642857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						28206.6964285714,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						28181.25,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						28153.125,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						28363.3928571429,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						28325.8928571429,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						28292.4107142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						28443.75,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						28411.6071428572,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						28474.5535714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						28458.4821428572,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						28537.5,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						28513.3928571429,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						28471.875,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						28639.2857142857,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						28615.1785714286,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						28648.6607142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						28613.8392857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						28710.2678571429,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						28676.7857142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						28644.6428571429,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						28629.9107142857,
+						5,
+						214.285714285714,
+						"Glitch"
+					],
+					[
+						28999.5535714286,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						29050.4464285714,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						29046.4285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						29027.6785714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						29020.9821428572,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						29110.7142857143,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						29094.6428571429,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						29071.875,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						29063.8392857143,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						29187.0535714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						29170.9821428572,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						29161.6071428572,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						29153.5714285714,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						29248.6607142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						29235.2678571429,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						29252.6785714286,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						29235.2678571429,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						29319.6428571429,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						29304.9107142857,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						29276.7857142857,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						29251.3392857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						29381.25,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						29354.4642857143,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						29398.6607142857,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						29484.375,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						29465.625,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						29429.4642857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						29547.3214285714,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						29537.9464285714,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						29495.0892857143,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						29449.5535714286,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						29436.1607142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						29582.1428571429,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						29625,
+						2,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						29892.8571428572,
+						3,
+						53.5714285714286,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						30000,
+						0,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						30107.1428571429,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						30160.7142857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						30214.2857142857,
+						1,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						30482.1428571429,
+						2,
+						133.928571428571,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						30964.2857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						31071.4285714286,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						31178.5714285715,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						31285.7142857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						31392.8571428572,
+						1,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						31660.7142857143,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						31714.2857142857,
+						3,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						32035.7142857143,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						32303.5714285715,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						32464.2857142857,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						32571.4285714286,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						32625,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						32678.5714285715,
+						1,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						32946.4285714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						33000,
+						3,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						33267.8571428572,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						33375,
+						1,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 100
+			},
+			{
+				"sectionNotes": [
+					[
+						33428.5714285715,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						33482.1428571429,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						33535.7142857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						33589.2857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						33642.8571428572,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						33696.4285714286,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						33750,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						34178.5714285715,
+						1,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						33857.1428571429,
+						0,
+						214.285714285714,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						34500,
+						2,
+						53.5714285714286
+					],
+					[
+						34767.8571428572,
+						3,
+						53.5714285714286
+					],
+					[
+						35035.7142857143,
+						1,
+						160.714285714286
+					],
+					[
+						34982.1428571429,
+						3,
+						0
+					],
+					[
+						34928.5714285715,
+						0,
+						0
+					],
+					[
+						34875,
+						1,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						35410.7142857143,
+						2,
+						160.714285714286
+					],
+					[
+						35839.2857142857,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						36000,
+						1,
+						0
+					],
+					[
+						36160.7142857143,
+						3,
+						0
+					],
+					[
+						36267.8571428572,
+						0,
+						0
+					],
+					[
+						36696.4285714286,
+						2,
+						107.142857142857
+					],
+					[
+						36375,
+						0,
+						107.142857142857
+					],
+					[
+						36428.5714285714,
+						1,
+						160.714285714286
+					],
+					[
+						36375,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						36964.2857142857,
+						3,
+						53.5714285714286
+					],
+					[
+						37285.7142857143,
+						1,
+						0
+					],
+					[
+						37392.8571428572,
+						0,
+						0
+					],
+					[
+						37446.4285714286,
+						3,
+						0
+					],
+					[
+						37500,
+						1,
+						0
+					],
+					[
+						37553.5714285714,
+						2,
+						133.928571428571
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						37875,
+						1,
+						133.928571428571
+					],
+					[
+						38196.4285714286,
+						2,
+						0
+					],
+					[
+						38303.5714285714,
+						0,
+						0
+					],
+					[
+						38357.1428571429,
+						3,
+						0
+					],
+					[
+						38410.7142857143,
+						1,
+						0
+					],
+					[
+						38517.8571428572,
+						2,
+						107.142857142857
+					],
+					[
+						38142.8571428572,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						38678.5714285714,
+						1,
+						0
+					],
+					[
+						38785.7142857143,
+						3,
+						160.714285714286
+					],
+					[
+						38839.2857142857,
+						2,
+						160.714285714286
+					],
+					[
+						39107.1428571429,
+						1,
+						133.928571428571
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						39428.5714285714,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						39535.7142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						39589.2857142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						39642.8571428572,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						39696.4285714286,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						39750,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						39803.5714285714,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						39857.1428571429,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						39910.7142857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						39964.2857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						40017.8571428572,
+						1,
+						187.5,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						40339.2857142857,
+						2,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						40500,
+						3,
+						26.7857142857143,
+						"Glitch"
+					],
+					[
+						40639.2857142857,
+						0,
+						26.7857142857143,
+						"Glitch"
+					],
+					[
+						40746.4285714286,
+						3,
+						26.7857142857143,
+						"Glitch"
+					],
+					[
+						40928.5714285714,
+						1,
+						160.714285714286,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						41303.5714285714,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						41410.7142857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						41517.8571428572,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						41678.5714285714,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						41785.7142857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						41892.8571428572,
+						3,
+						401.785714285714,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						42482.1428571429,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						42535.7142857143,
+						2,
+						535.714285714286,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						43125,
+						1,
+						455.357142857143,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						43714.2857142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						43875,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						43982.1428571429,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						44089.2857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						44130.8035714286,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						44166.9642857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						44189.7321428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						44221.875,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						44244.6428571429,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						44303.5714285714,
+						5,
+						0
+					],
+					[
+						44464.2857142857,
+						7,
+						0
+					],
+					[
+						44517.8571428571,
+						5,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						44785.7142857143,
+						1,
+						0
+					],
+					[
+						44839.2857142857,
+						3,
+						0
+					],
+					[
+						44892.8571428571,
+						2,
+						0
+					],
+					[
+						44946.4285714286,
+						0,
+						187.5
+					],
+					[
+						44625,
+						0,
+						0
+					],
+					[
+						45267.8571428571,
+						1,
+						107.142857142857
+					],
+					[
+						44571.4285714286,
+						2,
+						0
+					],
+					[
+						44678.5714285714,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						45428.5714285714,
+						2,
+						0
+					],
+					[
+						45535.7142857143,
+						1,
+						0
+					],
+					[
+						45642.8571428571,
+						0,
+						0
+					],
+					[
+						45750,
+						1,
+						0
+					],
+					[
+						45857.1428571429,
+						3,
+						160.714285714286
+					],
+					[
+						46178.5714285714,
+						1,
+						53.5714285714286
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						46285.7142857143,
+						1,
+						53.5714285714286
+					],
+					[
+						46500,
+						3,
+						0
+					],
+					[
+						46607.1428571429,
+						0,
+						0
+					],
+					[
+						46767.8571428571,
+						1,
+						482.142857142857
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						47410.7142857143,
+						3,
+						0
+					],
+					[
+						47464.2857142857,
+						2,
+						482.142857142857
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						48053.5714285714,
+						0,
+						508.928571428571
+					],
+					[
+						48696.4285714286,
+						1,
+						0
+					],
+					[
+						48803.5714285714,
+						1,
+						0
+					],
+					[
+						48428.5714285714,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						48910.7142857143,
+						7,
+						0
+					],
+					[
+						48964.2857142857,
+						5,
+						0
+					],
+					[
+						49017.8571428571,
+						7,
+						0
+					],
+					[
+						49071.4285714286,
+						5,
+						0
+					],
+					[
+						49125,
+						6,
+						0
+					],
+					[
+						49258.9285714286,
+						1,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						49392.8571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						49446.4285714286,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						49500,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						49553.5714285714,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						49607.1428571428,
+						0,
+						26.7857142857143,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"sectionNotes": [
+					[
+						49875,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						50035.7142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						50089.2857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						50142.8571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						50196.4285714286,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						50250,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						50303.5714285714,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						50357.1428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						50410.7142857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						50464.2857142857,
+						1,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						49714.2857142857,
+						1,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						49714.2857142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						49714.2857142857,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						49767.8571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						49821.4285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						49875,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						49875,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						49821.4285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						49767.8571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						49928.5714285714,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						49928.5714285714,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						50035.7142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50142.8571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50196.4285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50089.2857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50250,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50089.2857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50142.8571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50196.4285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50250,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50035.7142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50142.8571428571,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						50142.8571428571,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						50517.8571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50464.2857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50410.7142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50357.1428571428,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50410.7142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						50464.2857142857,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						50517.8571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50464.2857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50410.7142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50357.1428571428,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 235
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						50625,
+						3,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						50785.7142857143,
+						1,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						50946.4285714286,
+						3,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						51107.1428571428,
+						2,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						51267.8571428571,
+						3,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						51412.5,
+						2,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						50571.4285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50571.4285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50732.1428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						50732.1428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						50785.7142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50839.2857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50785.7142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50839.2857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50892.8571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						50892.8571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						50946.4285714286,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						50946.4285714286,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						52232.1428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						51535.7142857143,
+						3,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						51696.4285714286,
+						0,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						51857.1428571428,
+						1,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						52017.8571428571,
+						3,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						52178.5714285714,
+						0,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						52285.7142857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						52500,
+						1,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						52660.7142857143,
+						2,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						52821.4285714286,
+						1,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						52928.5714285714,
+						3,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						52316.5178571428,
+						1,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						53250,
+						2,
+						107.142857142857,
+						"Glitch"
+					],
+					[
+						53571.4285714286,
+						3,
+						107.142857142857,
+						"Glitch"
+					],
+					[
+						53839.2857142857,
+						1,
+						80.3571428571429,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						54160.7142857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						54321.4285714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						54375,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						54428.5714285714,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						54482.1428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						54535.7142857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						54642.8571428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						54750,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						54000,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54000,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54000,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						54000,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						54053.5714285714,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54053.5714285714,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54160.7142857143,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54107.1428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54107.1428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54160.7142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54214.2857142857,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54214.2857142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54375,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54428.5714285714,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54428.5714285714,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54375,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54535.7142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54535.7142857143,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54589.2857142857,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54589.2857142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54642.8571428571,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54642.8571428571,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54696.4285714286,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54696.4285714286,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						54910.7142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						55017.8571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						55071.4285714286,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						55125,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						55178.5714285714,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						55232.1428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						55392.8571428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						55553.5714285714,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						55660.7142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						55285.7142857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						54857.1428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54857.1428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54910.7142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						54910.7142857143,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						54910.7142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						54964.2857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						55017.8571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						55071.4285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						54910.7142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55071.4285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						54964.2857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55017.8571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55232.1428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						55232.1428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						55285.7142857143,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						55285.7142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						55285.7142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55339.2857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55392.8571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55339.2857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						55285.7142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						55392.8571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						55446.4285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						55446.4285714286,
+						4,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						55767.8571428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						55875,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						55982.1428571428,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						56142.8571428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						56303.5714285714,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						56464.2857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						55821.4285714285,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						55928.5714285714,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						56035.7142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55767.8571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						55714.2857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						55928.5714285714,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						55982.1428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						55982.1428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						56035.7142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						56089.2857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55714.2857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55767.8571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55821.4285714285,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55875,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						55875,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						56625,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						56785.7142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						56892.8571428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						57000,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						57107.1428571428,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						57214.2857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						57321.4285714285,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						57482.1428571428,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						57589.2857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						57750,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						58178.5714285714,
+						1,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						57878.5714285714,
+						2,
+						214.285714285714,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						58500,
+						0,
+						214.285714285714,
+						"Glitch"
+					],
+					[
+						58821.4285714285,
+						1,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						58789.2857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						59089.2857142857,
+						5,
+						53.5714285714286
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						59250,
+						2,
+						0
+					],
+					[
+						59517.8571428571,
+						0,
+						26.7857142857143
+					],
+					[
+						59892.8571428571,
+						2,
+						0
+					],
+					[
+						59946.4285714285,
+						3,
+						0
+					],
+					[
+						59732.1428571428,
+						1,
+						53.5714285714286
+					],
+					[
+						59303.5714285714,
+						0,
+						0
+					],
+					[
+						59357.1428571428,
+						1,
+						0
+					],
+					[
+						59410.7142857143,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						60000,
+						0,
+						0
+					],
+					[
+						60267.8571428571,
+						0,
+						0
+					],
+					[
+						60428.5714285714,
+						2,
+						0
+					],
+					[
+						60642.8571428571,
+						0,
+						0
+					],
+					[
+						60803.5714285714,
+						2,
+						0
+					],
+					[
+						60053.5714285714,
+						1,
+						0
+					],
+					[
+						60107.1428571428,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						60964.2857142857,
+						3,
+						0
+					],
+					[
+						61125,
+						2,
+						0
+					],
+					[
+						61285.7142857142,
+						3,
+						0
+					],
+					[
+						61392.8571428571,
+						1,
+						0
+					],
+					[
+						61553.5714285714,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						61714.2857142857,
+						1,
+						0
+					],
+					[
+						61875,
+						2,
+						0
+					],
+					[
+						61982.1428571428,
+						0,
+						0
+					],
+					[
+						62035.7142857142,
+						2,
+						0
+					],
+					[
+						62089.2857142857,
+						0,
+						0
+					],
+					[
+						62303.5714285714,
+						3,
+						0
+					],
+					[
+						62464.2857142857,
+						1,
+						0
+					],
+					[
+						62410.7142857142,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						62625,
+						0,
+						0
+					],
+					[
+						62785.7142857142,
+						2,
+						241.071428571429
+					],
+					[
+						63107.1428571428,
+						1,
+						214.285714285714
+					],
+					[
+						63413.8392857142,
+						0,
+						241.071428571429
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						64178.5714285714,
+						2,
+						0
+					],
+					[
+						64232.1428571428,
+						3,
+						0
+					],
+					[
+						63724.5535714285,
+						1,
+						187.5
+					],
+					[
+						64050,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						64285.7142857142,
+						1,
+						0
+					],
+					[
+						64339.2857142857,
+						0,
+						0
+					],
+					[
+						64392.8571428571,
+						2,
+						0
+					],
+					[
+						64500,
+						0,
+						0
+					],
+					[
+						64660.7142857142,
+						1,
+						0
+					],
+					[
+						64821.4285714285,
+						1,
+						0
+					],
+					[
+						64875,
+						3,
+						0
+					],
+					[
+						64928.5714285714,
+						1,
+						0
+					],
+					[
+						64982.1428571428,
+						2,
+						0
+					],
+					[
+						65035.7142857142,
+						0,
+						0
+					],
+					[
+						65089.2857142857,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						65249.9999999999,
+						3,
+						0
+					],
+					[
+						65410.7142857142,
+						1,
+						0
+					],
+					[
+						65571.4285714285,
+						3,
+						0
+					],
+					[
+						65839.2857142857,
+						0,
+						0
+					],
+					[
+						65678.5714285714,
+						1,
+						0
+					],
+					[
+						65785.7142857142,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						66000,
+						2,
+						0
+					],
+					[
+						66160.7142857142,
+						0,
+						0
+					],
+					[
+						66321.4285714285,
+						1,
+						0
+					],
+					[
+						66482.1428571428,
+						3,
+						0
+					],
+					[
+						66589.2857142857,
+						3,
+						0
+					],
+					[
+						66750,
+						1,
+						0
+					],
+					[
+						66535.7142857142,
+						0,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						66910.7142857142,
+						0,
+						0
+					],
+					[
+						67071.4285714285,
+						3,
+						0
+					],
+					[
+						67178.5714285714,
+						3,
+						53.5714285714286
+					],
+					[
+						67392.8571428571,
+						1,
+						0
+					],
+					[
+						67500,
+						0,
+						0
+					],
+					[
+						67500,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						67714.2857142857,
+						1,
+						133.928571428571
+					],
+					[
+						68035.7142857142,
+						2,
+						160.714285714286
+					],
+					[
+						68325,
+						0,
+						187.5
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						68946.4285714285,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						69107.1428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						69160.7142857142,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						69214.2857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						69267.8571428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						69321.4285714285,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						68625,
+						5,
+						187.5
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						69428.5714285714,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						69589.2857142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						69749.9999999999,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						69910.7142857142,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						70071.4285714285,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						70178.5714285714,
+						3,
+						107.142857142857,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						70499.9999999999,
+						1,
+						107.142857142857,
+						"Glitch"
+					],
+					[
+						70821.4285714285,
+						3,
+						107.142857142857,
+						"Glitch"
+					],
+					[
+						71089.2857142857,
+						0,
+						107.142857142857,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						71357.1428571428,
+						2,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						71571.4285714285,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						71624.9999999999,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						71678.5714285714,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						71732.1428571428,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						71785.7142857142,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						71892.8571428571,
+						1,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						71999.9999999999,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						72107.1428571428,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						72214.2857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						72374.9999999999,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						72482.1428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						72589.2857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						72642.8571428571,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						72696.4285714285,
+						2,
+						375,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						73261.6071428571,
+						1,
+						508.928571428571,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						73874.9999999999,
+						1,
+						0
+					],
+					[
+						74196.4285714285,
+						1,
+						0
+					],
+					[
+						73982.1428571428,
+						3,
+						0
+					],
+					[
+						74035.7142857142,
+						0,
+						0
+					],
+					[
+						74089.2857142857,
+						3,
+						26.7857142857143
+					],
+					[
+						74303.5714285714,
+						0,
+						26.7857142857143
+					],
+					[
+						74464.2857142857,
+						2,
+						53.5714285714286
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						74624.9999999999,
+						3,
+						53.5714285714286
+					],
+					[
+						74785.7142857142,
+						1,
+						0
+					],
+					[
+						74946.4285714285,
+						2,
+						0
+					],
+					[
+						75053.5714285714,
+						0,
+						241.071428571429
+					],
+					[
+						75374.9999999999,
+						1,
+						214.285714285714
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						75696.4285714285,
+						3,
+						160.714285714286
+					],
+					[
+						76071.4285714285,
+						2,
+						133.928571428571
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						76339.2857142857,
+						1,
+						0
+					],
+					[
+						76446.4285714285,
+						0,
+						0
+					],
+					[
+						76499.9999999999,
+						1,
+						0
+					],
+					[
+						76553.5714285714,
+						0,
+						0
+					],
+					[
+						76607.1428571428,
+						2,
+						0
+					],
+					[
+						76767.8571428571,
+						3,
+						0
+					],
+					[
+						76928.5714285714,
+						0,
+						0
+					],
+					[
+						77089.2857142857,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						77249.9999999999,
+						2,
+						0
+					],
+					[
+						77357.1428571428,
+						0,
+						107.142857142857
+					],
+					[
+						77624.9999999999,
+						3,
+						482.142857142857
+					],
+					[
+						77678.5714285714,
+						1,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						78214.2857142856,
+						5,
+						482.142857142857
+					],
+					[
+						78838.3928571428,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						78535.7142857142,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						78589.2857142856,
+						4,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						78910.7142857142,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						78964.2857142856,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						79017.8571428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						79071.4285714285,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						79124.9999999999,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						79178.5714285713,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						79232.1428571428,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						79285.7142857142,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						79392.8571428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						79446.4285714285,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						79553.5714285713,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						78910.7142857142,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						79178.5714285713,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						79553.5714285713,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						79714.2857142856,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						79874.9999999999,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						80142.8571428571,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						80035.7142857142,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						80249.9999999999,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						80464.2857142856,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						79982.1428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						80410.7142857142,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						80624.9999999999,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						80785.7142857142,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						80892.8571428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						80946.4285714285,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						80999.9999999999,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						81053.5714285713,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						81107.1428571428,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						81160.7142857142,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						81214.2857142856,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						81267.8571428571,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						81321.4285714285,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						81374.9999999999,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						80839.2857142856,
+						5,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						81428.5714285713,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						81482.1428571428,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						81535.7142857142,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						81589.2857142856,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						81696.4285714285,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						81857.1428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						81910.7142857142,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						81964.2857142856,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						82017.8571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						82071.4285714285,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						82124.9999999999,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						82178.5714285713,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						82232.1428571428,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						81696.4285714285,
+						4,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						82285.7142857142,
+						3,
+						26.7857142857143,
+						"Glitch"
+					],
+					[
+						82499.9999999999,
+						1,
+						214.285714285714,
+						"Glitch"
+					],
+					[
+						82821.4285714285,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						82928.5714285713,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						83089.2857142856,
+						1,
+						241.071428571429,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						83357.1428571428,
+						7,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						83732.1428571428,
+						1,
+						0
+					],
+					[
+						83785.7142857142,
+						0,
+						0
+					],
+					[
+						83839.2857142856,
+						3,
+						0
+					],
+					[
+						83892.8571428571,
+						1,
+						0
+					],
+					[
+						83946.4285714285,
+						0,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						83999.9999999999,
+						3,
+						0
+					],
+					[
+						84053.5714285713,
+						1,
+						0
+					],
+					[
+						84107.1428571428,
+						0,
+						0
+					],
+					[
+						84160.7142857142,
+						3,
+						0
+					],
+					[
+						84214.2857142856,
+						2,
+						0
+					],
+					[
+						84321.4285714285,
+						0,
+						0
+					],
+					[
+						84428.5714285713,
+						2,
+						0
+					],
+					[
+						84535.7142857142,
+						0,
+						0
+					],
+					[
+						84642.8571428571,
+						3,
+						0
+					],
+					[
+						84749.9999999999,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						84910.7142857142,
+						0,
+						0
+					],
+					[
+						85017.8571428571,
+						1,
+						0
+					],
+					[
+						85124.9999999999,
+						0,
+						0
+					],
+					[
+						85232.1428571428,
+						2,
+						0
+					],
+					[
+						85339.2857142856,
+						0,
+						0
+					],
+					[
+						85446.4285714285,
+						1,
+						0
+					],
+					[
+						85553.5714285713,
+						0,
+						0
+					],
+					[
+						85660.7142857142,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						85767.8571428571,
+						3,
+						0
+					],
+					[
+						85821.4285714285,
+						2,
+						0
+					],
+					[
+						85874.9999999999,
+						0,
+						0
+					],
+					[
+						85928.5714285713,
+						1,
+						0
+					],
+					[
+						85982.1428571428,
+						2,
+						0
+					],
+					[
+						86035.7142857142,
+						3,
+						0
+					],
+					[
+						86089.2857142856,
+						2,
+						0
+					],
+					[
+						86142.8571428571,
+						0,
+						0
+					],
+					[
+						86196.4285714285,
+						1,
+						0
+					],
+					[
+						86249.9999999999,
+						2,
+						0
+					],
+					[
+						86303.5714285713,
+						3,
+						0
+					],
+					[
+						86357.1428571428,
+						2,
+						0
+					],
+					[
+						86410.7142857142,
+						0,
+						0
+					],
+					[
+						86464.2857142856,
+						1,
+						0
+					],
+					[
+						86517.8571428571,
+						3,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						86571.4285714285,
+						1,
+						0
+					],
+					[
+						86665.1785714285,
+						0,
+						0
+					],
+					[
+						86785.7142857142,
+						1,
+						0
+					],
+					[
+						86946.4285714285,
+						2,
+						0
+					],
+					[
+						86999.9999999999,
+						1,
+						0
+					],
+					[
+						87053.5714285713,
+						3,
+						0
+					],
+					[
+						87107.1428571428,
+						1,
+						0
+					],
+					[
+						87160.7142857142,
+						0,
+						0
+					],
+					[
+						87214.2857142856,
+						2,
+						0
+					],
+					[
+						87267.857142857,
+						3,
+						53.5714285714286
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						87428.5714285713,
+						1,
+						214.285714285714
+					],
+					[
+						87696.4285714285,
+						3,
+						0
+					],
+					[
+						87857.1428571428,
+						3,
+						0
+					],
+					[
+						88017.857142857,
+						1,
+						241.071428571429
+					],
+					[
+						88232.1428571428,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						88285.7142857142,
+						4,
+						0
+					],
+					[
+						88339.2857142856,
+						6,
+						160.714285714286
+					],
+					[
+						88607.1428571428,
+						4,
+						0
+					],
+					[
+						88767.857142857,
+						6,
+						0
+					],
+					[
+						88928.5714285713,
+						4,
+						0
+					],
+					[
+						89089.2857142856,
+						5,
+						0
+					],
+					[
+						88607.1428571428,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						88660.7142857142,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						88714.2857142856,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						88767.857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						88821.4285714285,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						88874.9999999999,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						88982.1428571428,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						89089.2857142856,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						89249.9999999999,
+						7,
+						187.5
+					],
+					[
+						89571.4285714285,
+						5,
+						160.714285714286
+					],
+					[
+						89839.2857142856,
+						4,
+						187.5
+					],
+					[
+						89249.9999999999,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						89303.5714285713,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						89357.1428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						89410.7142857142,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						89464.2857142856,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						89517.857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						89571.4285714285,
+						3,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						89754.9107142856,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						89839.2857142856,
+						3,
+						187.5,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						90160.7142857142,
+						6,
+						187.5
+					],
+					[
+						90535.7142857142,
+						5,
+						133.928571428571
+					],
+					[
+						90321.4285714285,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						90160.7142857142,
+						2,
+						80.3571428571429,
+						"Glitch"
+					],
+					[
+						90535.7142857142,
+						1,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						90779.4642857142,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						90803.5714285713,
+						2,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						90803.5714285713,
+						7,
+						160.714285714286
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						91104.9107142856,
+						4,
+						187.5
+					],
+					[
+						91392.857142857,
+						4,
+						133.928571428571
+					],
+					[
+						91102.232142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						91285.7142857142,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						91392.857142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						91553.5714285713,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						91232.1428571428,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						91607.1428571428,
+						4,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						91982.1428571428,
+						4,
+						0
+					],
+					[
+						92142.857142857,
+						6,
+						0
+					],
+					[
+						92303.5714285713,
+						5,
+						214.285714285714
+					],
+					[
+						91714.2857142856,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						91874.9999999999,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						92035.7142857142,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						92196.4285714285,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						92357.1428571428,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						92517.857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						92464.2857142856,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						92571.4285714285,
+						5,
+						214.285714285714
+					],
+					[
+						93214.2857142856,
+						4,
+						214.285714285714
+					],
+					[
+						92678.5714285713,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						92785.7142857142,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						92946.4285714285,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						93107.1428571428,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						93214.2857142856,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						92785.7142857142,
+						4,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						93589.2857142856,
+						7,
+						0
+					],
+					[
+						93857.1428571428,
+						7,
+						0
+					],
+					[
+						93725.8928571428,
+						5,
+						0
+					],
+					[
+						94017.857142857,
+						6,
+						0
+					],
+					[
+						94232.1428571428,
+						4,
+						160.714285714286
+					],
+					[
+						93589.2857142856,
+						0,
+						428.571428571428,
+						"Glitch"
+					],
+					[
+						94197.3214285713,
+						3,
+						348.214285714286,
+						"Glitch"
+					],
+					[
+						93696.4285714285,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						94499.9999999999,
+						5,
+						187.5
+					],
+					[
+						94767.857142857,
+						6,
+						133.928571428571
+					],
+					[
+						95089.2857142856,
+						7,
+						187.5
+					],
+					[
+						94767.857142857,
+						2,
+						214.285714285714,
+						"Glitch"
+					],
+					[
+						94874.9999999999,
+						4,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						95410.7142857142,
+						5,
+						267.857142857143
+					],
+					[
+						95732.1428571427,
+						4,
+						187.5
+					],
+					[
+						95142.857142857,
+						1,
+						214.285714285714,
+						"Glitch"
+					],
+					[
+						95391.9642857142,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						95437.4999999999,
+						1,
+						241.071428571429,
+						"Glitch"
+					],
+					[
+						95732.1428571427,
+						0,
+						187.5,
+						"Glitch"
+					],
+					[
+						95571.4285714285,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						96053.5714285713,
+						6,
+						803.571428571429
+					],
+					[
+						96053.5714285713,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						96021.4285714284,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						96482.1428571427,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						96455.357142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						96428.5714285713,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						96964.2857142856,
+						7,
+						214.285714285714
+					],
+					[
+						97232.1428571427,
+						4,
+						160.714285714286
+					],
+					[
+						97499.9999999999,
+						5,
+						187.5
+					],
+					[
+						96877.232142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						96910.7142857142,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						97198.6607142856,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						97232.1428571427,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						97124.9999999999,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						97607.1428571427,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						98142.857142857,
+						7,
+						214.285714285714
+					],
+					[
+						97821.4285714284,
+						4,
+						187.5
+					],
+					[
+						97731.6964285713,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						97767.857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						98117.4107142856,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						98142.857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						98517.857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						98517.857142857,
+						4,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						98678.5714285713,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						98785.7142857142,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						98946.4285714284,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						99107.1428571427,
+						7,
+						241.071428571429,
+						"Glitch"
+					],
+					[
+						99404.4642857142,
+						5,
+						187.5,
+						"Glitch"
+					],
+					[
+						98571.4285714284,
+						1,
+						0
+					],
+					[
+						98624.9999999999,
+						3,
+						0
+					],
+					[
+						98678.5714285713,
+						2,
+						0
+					],
+					[
+						98732.1428571427,
+						0,
+						0
+					],
+					[
+						98839.2857142856,
+						1,
+						0
+					],
+					[
+						98946.4285714284,
+						3,
+						0
+					],
+					[
+						99107.1428571427,
+						2,
+						0
+					],
+					[
+						99160.7142857142,
+						1,
+						0
+					],
+					[
+						99214.2857142856,
+						0,
+						0
+					],
+					[
+						99267.857142857,
+						1,
+						0
+					],
+					[
+						99321.4285714284,
+						3,
+						0
+					],
+					[
+						99374.9999999999,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						99780.8035714284,
+						7,
+						187.5,
+						"Glitch"
+					],
+					[
+						100045.982142857,
+						5,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						99428.5714285713,
+						0,
+						0
+					],
+					[
+						99535.7142857142,
+						1,
+						0
+					],
+					[
+						99717.857142857,
+						2,
+						187.5
+					],
+					[
+						100036.607142857,
+						0,
+						160.714285714286
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						100285.714285714,
+						6,
+						214.285714285714,
+						"Glitch"
+					],
+					[
+						100652.678571428,
+						5,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						100982.142857143,
+						4,
+						187.5,
+						"Glitch"
+					],
+					[
+						100339.285714286,
+						1,
+						187.5
+					],
+					[
+						100660.714285714,
+						3,
+						187.5
+					],
+					[
+						100959.375,
+						0,
+						0
+					],
+					[
+						101066.517857143,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						101303.571428571,
+						4,
+						214.285714285714,
+						"Glitch"
+					],
+					[
+						101820.535714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						101946.428571428,
+						6,
+						53.5714285714286,
+						"Glitch"
+					],
+					[
+						101227.232142857,
+						2,
+						0
+					],
+					[
+						101410.714285714,
+						0,
+						0
+					],
+					[
+						101571.428571428,
+						3,
+						0
+					],
+					[
+						101678.571428571,
+						2,
+						0
+					],
+					[
+						101839.285714286,
+						1,
+						0
+					],
+					[
+						101464.285714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						101946.428571428,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						102190.178571428,
+						5,
+						187.5,
+						"Glitch"
+					],
+					[
+						102499.553571428,
+						5,
+						187.5,
+						"Glitch"
+					],
+					[
+						102000,
+						0,
+						0
+					],
+					[
+						102214.285714286,
+						1,
+						0
+					],
+					[
+						102354.910714286,
+						3,
+						0
+					],
+					[
+						102482.142857143,
+						1,
+						0
+					],
+					[
+						102642.857142857,
+						0,
+						0
+					],
+					[
+						102803.571428571,
+						2,
+						0
+					],
+					[
+						102589.285714286,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						103017.857142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						103043.303571428,
+						7,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						103392.857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						103553.571428571,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						102910.714285714,
+						1,
+						0
+					],
+					[
+						103071.428571428,
+						1,
+						0
+					],
+					[
+						103125,
+						2,
+						0
+					],
+					[
+						103178.571428571,
+						0,
+						0
+					],
+					[
+						103232.142857143,
+						3,
+						0
+					],
+					[
+						103285.714285714,
+						2,
+						0
+					],
+					[
+						103339.285714286,
+						1,
+						0
+					],
+					[
+						103465.178571428,
+						0,
+						348.214285714286
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						103714.285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						103821.428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						103928.571428571,
+						7,
+						187.5,
+						"Glitch"
+					],
+					[
+						104326.339285714,
+						5,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						104058.482142857,
+						2,
+						428.571428571428
+					],
+					[
+						103821.428571428,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						104250,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						104464.285714286,
+						0,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						104625,
+						4,
+						187.5,
+						"Glitch"
+					],
+					[
+						104946.428571428,
+						5,
+						187.5,
+						"Glitch"
+					],
+					[
+						105267.857142857,
+						6,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						104982.589285714,
+						1,
+						187.5
+					],
+					[
+						105304.017857143,
+						0,
+						133.928571428571
+					],
+					[
+						104697.321428571,
+						3,
+						133.928571428571
+					],
+					[
+						105160.714285714,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						105589.285714286,
+						5,
+						241.071428571429,
+						"Glitch"
+					],
+					[
+						105914.732142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						105934.821428571,
+						4,
+						642.857142857143,
+						"Glitch"
+					],
+					[
+						105589.285714286,
+						1,
+						107.142857142857
+					],
+					[
+						105910.714285714,
+						1,
+						0
+					],
+					[
+						105964.285714286,
+						3,
+						0
+					],
+					[
+						105750,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						106767.857142857,
+						6,
+						187.5,
+						"Glitch"
+					],
+					[
+						107089.285714286,
+						4,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						106392.857142857,
+						1,
+						0
+					],
+					[
+						106446.428571428,
+						3,
+						0
+					],
+					[
+						106714.285714286,
+						1,
+						0
+					],
+					[
+						106767.857142857,
+						3,
+						0
+					],
+					[
+						107035.714285714,
+						1,
+						0
+					],
+					[
+						107089.285714286,
+						3,
+						0
+					],
+					[
+						106875,
+						0,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						107410.714285714,
+						5,
+						107.142857142857,
+						"Glitch"
+					],
+					[
+						107732.142857143,
+						7,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						107517.857142857,
+						1,
+						0
+					],
+					[
+						107571.428571428,
+						3,
+						0
+					],
+					[
+						107410.714285714,
+						0,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						108518.303571428,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108459.375,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108412.5,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108391.071428571,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108750,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108741.964285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108723.214285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108711.160714286,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108763.392857143,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108744.642857143,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108723.214285714,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108839.732142857,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108830.357142857,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108827.678571428,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108843.75,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108838.392857143,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108000,
+						2,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						108000,
+						5,
+						0
+					],
+					[
+						108053.571428571,
+						7,
+						0
+					],
+					[
+						108160.714285714,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						108887.946428571,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108878.571428571,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108858.482142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108898.660714286,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108895.982142857,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108883.928571428,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108869.196428571,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108863.839285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109016.517857143,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108993.75,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						108977.678571428,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109017.857142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109004.464285714,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						108973.660714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109079.464285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109135.714285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109232.142857143,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						109159.821428571,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109104.910714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109083.482142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109296.428571428,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109279.017857143,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109266.964285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109292.410714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109283.035714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109261.607142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109374.107142857,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109500,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						109607.142857143,
+						1,
+						80.3571428571429,
+						"GF Sing"
+					],
+					[
+						109675.446428571,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109659.375,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109628.571428571,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109690.178571428,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						109674.107142857,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						109645.982142857,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						109631.25,
+						0,
+						0,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						109800,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109739.732142857,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109813.392857143,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						109790.625,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109771.875,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109778.571428571,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						109771.875,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109726.339285714,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109950,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109908.482142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						109844.196428571,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						109955.357142857,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						109927.232142857,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						109928.571428571,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109915.178571428,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109887.053571428,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						109873.660714286,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						110063.839285714,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110049.107142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110030.357142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110022.321428571,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						110093.303571428,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						110066.517857143,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						110039.732142857,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						110035.714285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						110199.107142857,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						110157.589285714,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						110132.142857143,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						110179.017857143,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110158.928571428,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110260.714285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						110221.875,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						110200.446428571,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						110294.196428571,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						110245.982142857,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						110220.535714286,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						110304.910714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110303.571428571,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110280.803571428,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110271.428571428,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110358.482142857,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						110323.660714286,
+						2,
+						0,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						110623.660714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110586.160714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110705.357142857,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						110697.321428571,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						110659.821428571,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						110588.839285714,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						110839.285714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110946.428571428,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						111053.571428571,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						111214.285714286,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						111375,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						110946.428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						110946.428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						111000,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111000,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111053.571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111107.142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111053.571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111107.142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111160.714285714,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						111160.714285714,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						111321.428571428,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111375,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111321.428571428,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111375,
+						4,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						111535.714285714,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						111696.428571428,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						111857.142857143,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						112017.857142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						112071.428571428,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						112125,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						112178.571428571,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						112232.142857143,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						111428.571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111482.142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111428.571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111482.142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111535.714285714,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111535.714285714,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111428.571428571,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						111428.571428571,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						111964.285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111910.714285714,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111857.142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111803.571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						111857.142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						111910.714285714,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						111910.714285714,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111857.142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111803.571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						111964.285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						112178.571428571,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						112178.571428571,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						112232.142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						112232.142857143,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						112285.714285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						112339.285714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						112392.857142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						112500,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						112446.428571428,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						112553.571428571,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						112607.142857143,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						112660.714285714,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						112714.285714286,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						112767.857142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						112821.428571428,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						112928.571428571,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						112875,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						113035.714285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						112285.714285714,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						112339.285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						112339.285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						112285.714285714,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						112392.857142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						112392.857142857,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113089.285714286,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113089.285714286,
+						5,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						113142.857142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						113303.571428571,
+						2,
+						375,
+						"GF Sing"
+					],
+					[
+						113892.857142857,
+						1,
+						187.5,
+						"GF Sing"
+					],
+					[
+						113946.428571428,
+						3,
+						267.857142857143,
+						"GF Sing"
+					],
+					[
+						113196.428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						113196.428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113250,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						113303.571428571,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						113303.571428571,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113250,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113517.857142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						113517.857142857,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113571.428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113571.428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						113625,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						113625,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113678.571428571,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113678.571428571,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						113732.142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						113732.142857143,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113517.857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						113571.428571428,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						113517.857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						113571.428571428,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						113946.428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						113946.428571428,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						113946.428571428,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						113946.428571428,
+						5,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						114482.142857143,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						114642.857142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						114803.571428571,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						114000,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						114053.571428571,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						114107.142857143,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						114160.714285714,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						114214.285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						114214.285714286,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						114214.285714286,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						114214.285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						114267.857142857,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						114267.857142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						114267.857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						114267.857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						114535.714285714,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						114589.285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						114696.428571428,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						114750,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						114642.857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						114642.857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						114642.857142857,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						114642.857142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						114589.285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						114535.714285714,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						114696.428571428,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						114750,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						114964.285714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						115125,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						115285.714285714,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						115446.428571428,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						115607.142857143,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						114910.714285714,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						114910.714285714,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						115017.857142857,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						115017.857142857,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						115071.428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						115125,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						115125,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						115071.428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						115178.571428571,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						115178.571428571,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						115446.428571428,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						115446.428571428,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						115500,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						115500,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						115500,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						115553.571428571,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						115607.142857143,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						115660.714285714,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						115500,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						115553.571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						115607.142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						115660.714285714,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						115767.857142857,
+						3,
+						107.142857142857,
+						"GF Sing"
+					],
+					[
+						116035.714285714,
+						1,
+						80.3571428571429,
+						"GF Sing"
+					],
+					[
+						116410.714285714,
+						2,
+						107.142857142857,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						116678.571428571,
+						3,
+						107.142857142857,
+						"GF Sing"
+					],
+					[
+						117000,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						117053.571428571,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						117053.571428571,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						117107.142857143,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						117160.714285714,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						117107.142857143,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						117160.714285714,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						117214.285714286,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						117267.857142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						117214.285714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						117267.857142857,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						117321.428571428,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						117321.428571428,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						117375,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						117375,
+						3,
+						0,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						117428.571428571,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						117482.142857143,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						117428.571428571,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						117482.142857143,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						117535.714285714,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						117535.714285714,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						117589.285714286,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						117589.285714286,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						117642.857142857,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						117696.428571428,
+						2,
+						107.142857142857,
+						"GF Sing"
+					],
+					[
+						117910.714285714,
+						1,
+						107.142857142857,
+						"GF Sing"
+					],
+					[
+						118178.571428571,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						118232.142857143,
+						2,
+						375,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						118875,
+						1,
+						401.785714285714,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						119571.428571428,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						119678.571428571,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						119785.714285714,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						119892.857142857,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						119946.428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						119946.428571428,
+						2,
+						321.428571428571,
+						"Glitch"
+					],
+					[
+						119449.553571428,
+						0,
+						0,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						120000,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						120053.571428571,
+						3,
+						107.142857142857,
+						"GF Sing"
+					],
+					[
+						120321.428571428,
+						2,
+						214.285714285714,
+						"GF Sing"
+					],
+					[
+						120053.571428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						120000,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						120000,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120107.142857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120107.142857143,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						120053.571428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120160.714285714,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						120107.142857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						120487.5,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						120427.232142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						120391.071428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						120352.232142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						120302.678571428,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						120533.035714286,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						120495.535714286,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						120456.696428571,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						120423.214285714,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						120383.035714286,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						120349.553571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						120321.428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						120289.285714286,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						120587.946428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120550.446428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120494.196428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120454.017857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120425.892857143,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120384.375,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120349.553571428,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120305.357142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120295.982142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						120642.857142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						120750,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						120964.285714286,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						121071.428571428,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						121232.142857143,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						121392.857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						121553.571428571,
+						0,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						121714.285714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						121875,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						121928.571428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						122035.714285714,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						121982.142857143,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						122089.285714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						122142.857142857,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						122196.428571428,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						122250,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						122303.571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						122357.142857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						122410.714285714,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						122464.285714286,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						122517.857142857,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						122571.428571428,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						122625,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						122732.142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						122785.714285714,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						122892.857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						123375,
+						3,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						123064.285714286,
+						1,
+						133.928571428571,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						123717.857142857,
+						2,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						124071.428571428,
+						1,
+						160.714285714286,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						124392.857142857,
+						3,
+						375,
+						"Glitch"
+					],
+					[
+						124928.571428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						124951.339285714,
+						1,
+						133.928571428571,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						125303.571428571,
+						2,
+						133.928571428571,
+						"Glitch"
+					],
+					[
+						125571.428571428,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						125625,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						125625,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						125678.571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						125678.571428571,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						125732.142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						125732.142857143,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						125785.714285714,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						125785.714285714,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						125839.285714286,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						125839.285714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						125892.857142857,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						125892.857142857,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						125946.428571428,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						125946.428571428,
+						1,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						126000,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						126000,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						126053.571428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						126053.571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						126107.142857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						126107.142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						126160.714285714,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						126321.428571428,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						126375,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						126428.571428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						126482.142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						126535.714285714,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						126589.285714286,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						126696.428571428,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						126750,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						126642.857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						126803.571428571,
+						3,
+						187.5,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						127143.75,
+						2,
+						187.5,
+						"Glitch"
+					],
+					[
+						127446.428571428,
+						1,
+						160.714285714286,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						127767.857142857,
+						3,
+						160.714285714286,
+						"Glitch"
+					],
+					[
+						128089.285714286,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						128116.071428571,
+						2,
+						294.642857142857,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						128678.571428571,
+						1,
+						508.928571428571,
+						"Glitch"
+					],
+					[
+						129281.25,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						129375,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						129535.714285714,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						129696.428571428,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						129857.142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						130017.857142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						130178.571428571,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						130339.285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						130500,
+						1,
+						0
+					],
+					[
+						130660.714285714,
+						0,
+						0
+					],
+					[
+						130767.857142857,
+						3,
+						0
+					],
+					[
+						130928.571428571,
+						1,
+						0
+					],
+					[
+						131089.285714286,
+						0,
+						0
+					],
+					[
+						130500,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						130500,
+						7,
+						0,
+						"GF Sing"
+					],
+					[
+						130500,
+						2,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						131250,
+						7,
+						0
+					],
+					[
+						131410.714285714,
+						5,
+						0
+					],
+					[
+						131517.857142857,
+						4,
+						0
+					],
+					[
+						131732.142857143,
+						5,
+						0
+					],
+					[
+						131839.285714286,
+						4,
+						0
+					],
+					[
+						131892.857142857,
+						6,
+						0
+					],
+					[
+						131142.857142857,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						131142.857142857,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						131744.196428571,
+						0,
+						482.142857142857,
+						"GF Sing"
+					],
+					[
+						131678.571428571,
+						6,
+						0
+					],
+					[
+						131785.714285714,
+						7,
+						0
+					],
+					[
+						131946.428571428,
+						5,
+						0
+					],
+					[
+						131142.857142857,
+						4,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						132000,
+						3,
+						0
+					],
+					[
+						132107.142857143,
+						2,
+						0
+					],
+					[
+						132214.285714286,
+						0,
+						0
+					],
+					[
+						132321.428571428,
+						0,
+						0
+					],
+					[
+						132428.571428571,
+						1,
+						0
+					],
+					[
+						132482.142857143,
+						2,
+						0
+					],
+					[
+						132535.714285714,
+						3,
+						0
+					],
+					[
+						132642.857142857,
+						0,
+						0
+					],
+					[
+						132750,
+						2,
+						0
+					],
+					[
+						132375,
+						6,
+						428.571428571428,
+						"GF Sing"
+					],
+					[
+						132267.857142857,
+						1,
+						0
+					],
+					[
+						132375,
+						3,
+						0
+					],
+					[
+						132160.714285714,
+						3,
+						0
+					],
+					[
+						132053.571428571,
+						0,
+						0
+					],
+					[
+						132589.285714286,
+						2,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						133017.857142857,
+						5,
+						428.571428571428
+					],
+					[
+						133607.142857143,
+						4,
+						401.785714285714
+					],
+					[
+						132999.107142857,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						132999.107142857,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						133575,
+						0,
+						0,
+						"GF Sing"
+					],
+					[
+						133572.321428571,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						133017.857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						133607.142857143,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						134196.428571428,
+						3,
+						0
+					],
+					[
+						134357.142857143,
+						2,
+						0
+					],
+					[
+						134517.857142857,
+						3,
+						0
+					],
+					[
+						134196.428571428,
+						5,
+						482.142857142857,
+						"GF Sing"
+					],
+					[
+						134196.428571428,
+						0,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						134625,
+						5,
+						0
+					],
+					[
+						134785.714285714,
+						7,
+						0
+					],
+					[
+						134946.428571428,
+						6,
+						0
+					],
+					[
+						135107.142857143,
+						5,
+						0
+					],
+					[
+						135267.857142857,
+						4,
+						0
+					],
+					[
+						134809.821428571,
+						0,
+						482.142857142857,
+						"GF Sing"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						135428.571428571,
+						2,
+						80.3571428571429
+					],
+					[
+						135696.428571428,
+						1,
+						80.3571428571429
+					],
+					[
+						136071.428571428,
+						2,
+						80.3571428571429
+					],
+					[
+						135428.571428571,
+						4,
+						0,
+						"GF Sing"
+					],
+					[
+						135428.571428571,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						135696.428571428,
+						5,
+						0,
+						"GF Sing"
+					],
+					[
+						135696.428571428,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						135964.285714286,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						135964.285714286,
+						4,
+						0,
+						"GF Sing"
+					],
+					[
+						135428.571428571,
+						0,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						136285.714285714,
+						4,
+						107.142857142857
+					],
+					[
+						136607.142857143,
+						4,
+						0
+					],
+					[
+						136660.714285714,
+						5,
+						0
+					],
+					[
+						136714.285714286,
+						7,
+						0
+					],
+					[
+						136767.857142857,
+						6,
+						0
+					],
+					[
+						136821.428571428,
+						4,
+						0
+					],
+					[
+						136875,
+						5,
+						0
+					],
+					[
+						136928.571428571,
+						7,
+						0
+					],
+					[
+						136982.142857143,
+						6,
+						0
+					],
+					[
+						137035.714285714,
+						4,
+						0
+					],
+					[
+						137089.285714286,
+						5,
+						0
+					],
+					[
+						136339.285714286,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						136339.285714286,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						136500,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						136500,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						136821.428571428,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						136821.428571428,
+						3,
+						0,
+						"GF Sing"
+					],
+					[
+						136339.285714286,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						137142.857142857,
+						2,
+						0
+					],
+					[
+						137892.857142857,
+						0,
+						562.5
+					],
+					[
+						137303.571428571,
+						6,
+						53.5714285714286,
+						"GF Sing"
+					],
+					[
+						137599.553571428,
+						5,
+						53.5714285714286,
+						"GF Sing"
+					],
+					[
+						137916.964285714,
+						4,
+						0,
+						"GF Sing"
+					],
+					[
+						137303.571428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						137625,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						137946.428571428,
+						3,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						138575.892857143,
+						1,
+						401.785714285714
+					],
+					[
+						138214.285714286,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						138535.714285714,
+						5,
+						0,
+						"GF Sing"
+					],
+					[
+						138835.714285714,
+						5,
+						0,
+						"GF Sing"
+					],
+					[
+						138267.857142857,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						138535.714285714,
+						0,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						139125,
+						7,
+						0
+					],
+					[
+						139285.714285714,
+						6,
+						0
+					],
+					[
+						139446.428571428,
+						7,
+						0
+					],
+					[
+						139553.571428571,
+						5,
+						0
+					],
+					[
+						138964.285714286,
+						2,
+						0,
+						"GF Sing"
+					],
+					[
+						138964.285714286,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						139767.857142857,
+						7,
+						133.928571428571
+					],
+					[
+						140035.714285714,
+						5,
+						241.071428571429
+					],
+					[
+						139746.428571429,
+						1,
+						0,
+						"GF Sing"
+					],
+					[
+						139767.857142857,
+						0,
+						375,
+						"GF Sing"
+					],
+					[
+						140303.571428571,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						140303.571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						140357.142857143,
+						4,
+						0
+					],
+					[
+						140464.285714286,
+						6,
+						0
+					],
+					[
+						140196.428571429,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						140892.857142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						140892.857142857,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						140625,
+						4,
+						0
+					],
+					[
+						140785.714285714,
+						5,
+						0
+					],
+					[
+						141000,
+						4,
+						0
+					],
+					[
+						141107.142857143,
+						6,
+						0
+					],
+					[
+						141214.285714286,
+						4,
+						0
+					],
+					[
+						141375,
+						5,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						141535.714285714,
+						1,
+						508.928571428571,
+						"Glitch"
+					],
+					[
+						142178.571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						142206.696428571,
+						3,
+						348.214285714286,
+						"Glitch"
+					],
+					[
+						141535.714285714,
+						4,
+						0
+					],
+					[
+						141642.857142857,
+						6,
+						0
+					],
+					[
+						141750,
+						4,
+						0
+					],
+					[
+						141857.142857143,
+						5,
+						0
+					],
+					[
+						141964.285714286,
+						4,
+						0
+					],
+					[
+						142071.428571429,
+						6,
+						0
+					],
+					[
+						142178.571428571,
+						4,
+						0
+					],
+					[
+						141589.285714286,
+						7,
+						0
+					],
+					[
+						141696.428571429,
+						5,
+						0
+					],
+					[
+						141803.571428571,
+						6,
+						0
+					],
+					[
+						141910.714285714,
+						7,
+						0
+					],
+					[
+						142017.857142857,
+						5,
+						0
+					],
+					[
+						142125,
+						5,
+						0
+					],
+					[
+						142232.142857143,
+						6,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						142821.428571429,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						142821.428571429,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						142339.285714286,
+						6,
+						0
+					],
+					[
+						142392.857142857,
+						4,
+						0
+					],
+					[
+						142553.571428571,
+						7,
+						0
+					],
+					[
+						142714.285714286,
+						6,
+						0
+					],
+					[
+						142821.428571429,
+						5,
+						160.714285714286
+					],
+					[
+						143089.285714286,
+						4,
+						160.714285714286
+					],
+					[
+						142285.714285714,
+						7,
+						0
+					],
+					[
+						142446.428571429,
+						5,
+						0
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						143410.714285714,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						143410.714285714,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						143678.571428571,
+						5,
+						241.071428571429
+					],
+					[
+						143357.142857143,
+						7,
+						241.071428571429
+					],
+					[
+						143892.857142857,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						144000,
+						2,
+						455.357142857143,
+						"Glitch"
+					],
+					[
+						144642.857142857,
+						3,
+						375,
+						"Glitch"
+					],
+					[
+						144053.571428571,
+						5,
+						0
+					],
+					[
+						144107.142857143,
+						6,
+						401.785714285714
+					],
+					[
+						144642.857142857,
+						4,
+						160.714285714286
+					],
+					[
+						144321.428571429,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						144750,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						145285.714285714,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						145500,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						144910.714285714,
+						5,
+						187.5
+					],
+					[
+						145232.142857143,
+						4,
+						0
+					],
+					[
+						145285.714285714,
+						5,
+						0
+					],
+					[
+						145339.285714286,
+						6,
+						0
+					],
+					[
+						145392.857142857,
+						7,
+						0
+					],
+					[
+						145446.428571429,
+						6,
+						0
+					],
+					[
+						145500,
+						5,
+						0
+					],
+					[
+						145553.571428571,
+						4,
+						0
+					],
+					[
+						145607.142857143,
+						7,
+						0
+					],
+					[
+						145660.714285714,
+						6,
+						0
+					],
+					[
+						145071.428571429,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						145821.428571429,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						146142.857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						146303.571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						145714.285714286,
+						4,
+						0
+					],
+					[
+						145767.857142857,
+						5,
+						0
+					],
+					[
+						145982.142857143,
+						6,
+						0
+					],
+					[
+						146035.714285714,
+						5,
+						0
+					],
+					[
+						146089.285714286,
+						7,
+						0
+					],
+					[
+						146142.857142857,
+						4,
+						0
+					],
+					[
+						146196.428571429,
+						5,
+						0
+					],
+					[
+						146250,
+						7,
+						0
+					],
+					[
+						146357.142857143,
+						5,
+						0
+					],
+					[
+						146303.571428571,
+						4,
+						0
+					],
+					[
+						146410.714285714,
+						7,
+						0
+					],
+					[
+						146464.285714286,
+						6,
+						267.857142857143
+					],
+					[
+						146517.857142857,
+						5,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						146625,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						147107.142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						147081.696428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						146809.821428571,
+						5,
+						133.928571428571
+					],
+					[
+						147107.142857143,
+						4,
+						133.928571428571
+					],
+					[
+						147375,
+						5,
+						214.285714285714
+					],
+					[
+						146732.142857143,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						146625,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						146678.571428571,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						147000,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						147000,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						147053.571428571,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						147267.857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						147321.428571429,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						147447.321428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						147729.910714286,
+						5,
+						0
+					],
+					[
+						147750,
+						6,
+						267.857142857143
+					],
+					[
+						147589.285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						147696.428571429,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						147964.285714286,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						148017.857142857,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						148071.428571429,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						148071.428571429,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						148125,
+						6,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						148875,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						148909.821428571,
+						6,
+						375,
+						"Glitch"
+					],
+					[
+						148312.5,
+						2,
+						0
+					],
+					[
+						148339.285714286,
+						3,
+						348.214285714286
+					],
+					[
+						148928.571428571,
+						3,
+						0
+					],
+					[
+						149035.714285714,
+						3,
+						0
+					],
+					[
+						148392.857142857,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						148446.428571429,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						148392.857142857,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						148446.428571429,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						148500,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						148553.571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						148553.571428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						148928.571428571,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						148982.142857143,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						148982.142857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						148928.571428571,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						148928.571428571,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						148982.142857143,
+						0,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						149303.571428572,
+						1,
+						214.285714285714,
+						"Glitch"
+					],
+					[
+						149678.571428572,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						149785.714285714,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						149357.142857143,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						149410.714285714,
+						2,
+						0,
+						"Glitch"
+					],
+					[
+						149196.428571429,
+						6,
+						0
+					],
+					[
+						149303.571428572,
+						6,
+						0
+					],
+					[
+						149410.714285714,
+						4,
+						0
+					],
+					[
+						149517.857142857,
+						4,
+						0
+					],
+					[
+						149571.428571429,
+						5,
+						0
+					],
+					[
+						149678.571428572,
+						5,
+						0
+					],
+					[
+						149839.285714286,
+						6,
+						0
+					],
+					[
+						149946.428571429,
+						7,
+						0
+					],
+					[
+						149571.428571429,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						149625,
+						1,
+						0,
+						"Glitch"
+					],
+					[
+						149625,
+						0,
+						0,
+						"Glitch"
+					],
+					[
+						149732.142857143,
+						3,
+						0,
+						"Glitch"
+					],
+					[
+						149839.285714286,
+						3,
+						214.285714285714,
+						"Glitch"
+					],
+					[
+						149250,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						149464.285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						149571.428571429,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						149625,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						149839.285714286,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						149946.428571429,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						149892.857142857,
+						5,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						150589.285714286,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						150589.285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						150750,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						150750,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						150803.571428572,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						150803.571428572,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						150428.571428572,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						150482.142857143,
+						6,
+						0,
+						"Glitch"
+					],
+					[
+						150535.714285714,
+						4,
+						0,
+						"Glitch"
+					],
+					[
+						150000,
+						1,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						150857.142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						150857.142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						150910.714285714,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						150910.714285714,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						150964.285714286,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						150964.285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						151071.428571429,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						151071.428571429,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						151178.571428572,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						151178.571428572,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						151232.142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						151232.142857143,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						151285.714285714,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						151285.714285714,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						151339.285714286,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						151392.857142857,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						151446.428571429,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						151500,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						151607.142857143,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						151660.714285714,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						151660.714285714,
+						4,
+						0,
+						"GF Sing"
+					],
+					[
+						151607.142857143,
+						4,
+						0,
+						"GF Sing"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						151714.285714286,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						151714.285714286,
+						4,
+						0,
+						"GF Sing"
+					],
+					[
+						151928.571428572,
+						4,
+						0,
+						"GF Sing"
+					],
+					[
+						152089.285714286,
+						4,
+						0,
+						"GF Sing"
+					],
+					[
+						152142.857142857,
+						4,
+						0,
+						"GF Sing"
+					],
+					[
+						152464.285714286,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						151928.571428572,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						152089.285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						152142.857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						152464.285714286,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [
+					[
+						152571.428571429,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						152678.571428572,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						153160.714285714,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						153214.285714286,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						153267.857142857,
+						6,
+						0,
+						"GF Sing"
+					],
+					[
+						152571.428571429,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						152678.571428572,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						153160.714285714,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						153214.285714286,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						153267.857142857,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						153375,
+						5,
+						0,
+						"Glitch"
+					]
+				],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						153589.285714286,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						153910.714285714,
+						5,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						154339.285714286,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						154607.142857143,
+						5,
+						0,
+						"Glitch"
+					],
+					[
+						154875,
+						7,
+						0,
+						"Glitch"
+					],
+					[
+						154982.142857143,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						155517.857142857,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						156696.428571429,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						157714.285714286,
+						7,
+						0,
+						"Glitch"
+					]
+				],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 280
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 280,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"gfVersion": "nogf",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				18.75,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				630.803571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				1242.85714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				1875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				2464.28571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				3696.42857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				4928.57142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				5571.42857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				6107.14285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				6750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				7392.85714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				8571.42857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				9857.14285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				10446.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				11089.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				11678.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				12375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				13607.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				14785.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				15375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				16017.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				16660.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				17250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				18482.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				19660.7142857143,
+				[
+					[
+						"LinearAlpha",
+						"5",
+						"50"
+					]
+				]
+			],
+			[
+				19714.2857142857,
+				[
+					[
+						"Opponent Fade",
+						"5",
+						"50"
+					]
+				]
+			],
+			[
+				20946.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				21107.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				21267.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				21428.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				21589.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				21750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				21910.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				22071.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				23410.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				24482.1428571429,
+				[
+					[
+						"Opponent Fade",
+						"3",
+						"100"
+					]
+				]
+			],
+			[
+				29603.5714285714,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				49232.1428571428,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.10"
+					]
+				]
+			],
+			[
+				50464.2857142857,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"360"
+					]
+				]
+			],
+			[
+				50625,
+				[
+					[
+						"LinearSpin",
+						"0",
+						"360"
+					]
+				]
+			],
+			[
+				50785.7142857143,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"360"
+					]
+				]
+			],
+			[
+				50946.4285714286,
+				[
+					[
+						"LinearSpin",
+						"0",
+						"360"
+					]
+				]
+			],
+			[
+				55392.8571428571,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"360"
+					]
+				]
+			],
+			[
+				55553.5714285714,
+				[
+					[
+						"LinearSpin",
+						"0",
+						"360"
+					]
+				]
+			],
+			[
+				55660.7142857143,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"360"
+					]
+				]
+			],
+			[
+				55767.8571428571,
+				[
+					[
+						"LinearSpin",
+						"0",
+						"360"
+					]
+				]
+			],
+			[
+				55875,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"360"
+					]
+				]
+			],
+			[
+				78214.2857142856,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				78321.4285714285,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				78428.5714285714,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				78535.7142857142,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				78642.8571428571,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				78749.9999999999,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				88660.7142857142,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				88928.5714285713,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				89249.9999999999,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				89571.4285714285,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				89892.857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				90160.7142857142,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				90535.7142857142,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				90803.5714285713,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				91124.9999999999,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				91392.857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				91714.2857142856,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				92089.2857142856,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				92410.7142857142,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				92624.9999999999,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				92946.4285714285,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				93267.857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				93589.2857142856,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				93857.1428571428,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				94178.5714285713,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				94499.9999999999,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				94821.4285714285,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				95089.2857142856,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				95410.7142857142,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				95732.1428571427,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				96053.5714285713,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				96374.9999999999,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				96696.4285714284,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				96910.7142857142,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				97232.1428571427,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				97553.5714285713,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				97928.5714285713,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				98089.2857142856,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				98249.9999999999,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.10"
+					]
+				]
+			],
+			[
+				100982.142857143,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"360"
+					]
+				]
+			],
+			[
+				101303.571428571,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"360"
+					]
+				]
+			],
+			[
+				102191.517857143,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"360"
+					]
+				]
+			],
+			[
+				102496.875,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"360"
+					]
+				]
+			],
+			[
+				105910.714285714,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"720"
+					]
+				]
+			],
+			[
+				108289.285714286,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				108375,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				108428.571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				108482.142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				108535.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				108696.428571428,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				108750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				108871.875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				108898.660714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				108964.285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109011.160714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109071.428571428,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109232.142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109285.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109607.142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109660.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109767.857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				109982.142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				110035.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				110196.428571428,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				110196.428571428,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				110250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				110571.428571428,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					]
+				]
+			],
+			[
+				110621.986607143,
+				[
+					[
+						"LinearSpin",
+						"1",
+						"720"
+					]
+				]
+			],
+			[
+				110625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"1.00"
+					]
+				]
+			],
+			[
+				110769.642857143,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				110794.084821428,
+				[
+					[
+						"Change Character",
+						"2",
+						"timmy"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Screen Shake",
+						"1, 0.10",
+						"0.05"
+					]
+				]
+			],
+			[
+				120284.765625,
+				[
+					[
+						"Add Camera Zoom",
+						"1.00",
+						"1.00"
+					]
+				]
+			],
+			[
+				120289.955357143,
+				[
+					[
+						"Screen Shake",
+						"1, 0.25",
+						"0.10"
+					]
+				]
+			],
+			[
+				120294.642857143,
+				[
+					[
+						"Add Camera Zoom",
+						"1.00",
+						"1.00"
+					]
+				]
+			],
+			[
+				120321.428571428,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				120375,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				120428.571428571,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				120482.142857143,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				120535.714285714,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			],
+			[
+				120589.285714286,
+				[
+					[
+						"Screen Shake",
+						"1, 0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				149892.857142857,
+				[
+					[
+						"Opponent Fade",
+						"8",
+						"0"
+					]
+				]
+			],
+			[
+				149946.428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"9.00",
+						"9.00"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Change Character",
+						"2",
+						"nogf"
+					]
+				]
+			],
+			[
+				150049.107142857,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				150053.571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"9.00",
+						"9.00"
+					]
+				]
+			],
+			[
+				150428.571428572,
+				[
+					[
+						"Screen Shake",
+						"11, 0.05",
+						"0.05"
+					]
+				]
+			]
+		],
+		"player3": "gf",
+		"song": "wish-come-true",
+		"validScore": true,
+		"needsVoices": true,
+		"stage": "timmys-room",
+		"speed": 3.5,
+		"bpm": 280
+	}
+}
