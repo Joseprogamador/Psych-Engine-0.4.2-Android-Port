@@ -13,19 +13,19 @@
 		},
 		{
 			"offsets": [
-				-23,
-				-11
+				37,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"name": "BF NOTE RIGHT0"
 		},
 		{
 			"offsets": [
-				7,
-				-47
+				-30,
+				-45
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-9,
-				9
+				-1,
+				32
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,19 +46,19 @@
 		},
 		{
 			"offsets": [
-				-43,
-				-5
+				-27,
+				-7
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "BF NOTE LEFT0"
 		},
 		{
 			"offsets": [
-				16,
-				-3
+				7,
+				19
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				17,
-				-29
+				-15,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-12,
-				9
+				-36,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-17,
-				13
+				-44,
+				22
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				-3
+				-3,
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,8 +112,8 @@
 		},
 		{
 			"offsets": [
-				-30,
-				-31
+				15,
+				18
 			],
 			"loop": false,
 			"fps": 24,
@@ -123,8 +123,8 @@
 		},
 		{
 			"offsets": [
-				-30,
-				4
+				-4,
+				0
 			],
 			"loop": true,
 			"fps": 24,
@@ -134,8 +134,8 @@
 		},
 		{
 			"offsets": [
-				56,
-				19
+				37,
+				11
 			],
 			"loop": false,
 			"fps": 24,
@@ -145,8 +145,8 @@
 		},
 		{
 			"offsets": [
-				32,
-				18
+				37,
+				5
 			],
 			"loop": true,
 			"fps": 24,
@@ -156,8 +156,8 @@
 		},
 		{
 			"offsets": [
-				32,
-				32
+				37,
+				69
 			],
 			"loop": false,
 			"fps": 24,
@@ -167,8 +167,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				-3
+				-10,
+				-16
 			],
 			"loop": false,
 			"fps": 24,
@@ -178,8 +178,8 @@
 		},
 		{
 			"offsets": [
-				134,
-				-35
+				294,
+				267
 			],
 			"loop": false,
 			"fps": 24,
@@ -200,22 +200,22 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/Le_corrrupt_Bf",
 	"position": [
-		107.25,
-		454.25
+		0,
+		350
 	],
-	"healthicon": "bf",
+	"healthicon": "bfc",
 	"flip_x": true,
 	"healthbar_colors": [
-		60,
-		40,
-		255
+		0,
+		100,
+		135
 	],
 	"camera_position": [
 		60,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 2
+	"scale": 1
 }
