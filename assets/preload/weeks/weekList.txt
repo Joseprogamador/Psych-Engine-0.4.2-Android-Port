@@ -1,7 +1,7 @@
 tutorial
-week1
-week2
-week3
-week4
-week5
-week6
+Fliqpy
+Fliqpy2
+Fliqpy3
+Fliqpy4
+Fliqpy5
+Fliqpy6
