@@ -1,22 +1,31 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		[
+			"Octane",
+			"cough",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "normal",
 	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
+		"",
+		"?",
+		""
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"storyName": "Skyway Octane",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "week1",
+	"startUnlocked": false
 }
