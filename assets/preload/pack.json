@@ -1,0 +1,6 @@
+{
+	"name": "Vs Tails.exe Psych Engine Port",
+	"description": "Vs Tails.exe but it's on Psych Engine",
+	"restart":false,
+	"color": [102, 102, 102]
+}
