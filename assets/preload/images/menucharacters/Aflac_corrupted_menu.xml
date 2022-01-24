@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Aflac_corrupted_menu.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aflac_menu0000" x="0" y="0" width="478" height="578" frameX="-33" frameY="-20" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0001" x="478" y="0" width="475" height="578" frameX="-42" frameY="-20" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0002" x="953" y="0" width="418" height="579" frameX="-92" frameY="-19" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0003" x="1371" y="0" width="424" height="579" frameX="-92" frameY="-19" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0004" x="1795" y="0" width="468" height="584" frameX="-39" frameY="-14" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0005" x="2263" y="0" width="468" height="584" frameX="-39" frameY="-14" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0006" x="2731" y="0" width="386" height="585" frameX="-119" frameY="-13" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0007" x="3117" y="0" width="395" height="585" frameX="-116" frameY="-13" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0008" x="3512" y="0" width="440" height="598" frameX="-63" frameY="0" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0009" x="0" y="598" width="439" height="598" frameX="-60" frameY="0" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0010" x="439" y="598" width="493" height="595" frameX="-5" frameY="-2" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0011" x="932" y="598" width="486" height="595" frameX="-10" frameY="-2" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0012" x="1418" y="598" width="494" height="595" frameX="0" frameY="-2" frameWidth="517" frameHeight="598"/>
+	<SubTexture name="aflac_menu0013" x="1912" y="598" width="489" height="595" frameX="-4" frameY="-2" frameWidth="517" frameHeight="598"/>
+</TextureAtlas>
