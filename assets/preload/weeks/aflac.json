@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"bedrock",
+			"Aflac-Corrupted",
+			[
+				155,
+				209,
+				246
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "cave",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"aflac-menu",
+		"menu-bf",
+		""
+	],
+	"storyName": "Aflac...?",
+	"weekName": "Aflac...?",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
