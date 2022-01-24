@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "aflac blaze idle"
+		},
+		{
+			"offsets": [
+				295,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Aflac blaze up"
+		},
+		{
+			"offsets": [
+				351,
+				-217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "aflac blaze down"
+		},
+		{
+			"offsets": [
+				416,
+				-147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "aflac blaze left"
+		},
+		{
+			"offsets": [
+				244,
+				-219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "aflac blaze right"
+		},
+		{
+			"offsets": [
+				192,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Aflac blaze attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Aflac_corrupted",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Aflac-Corrupted",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		209,
+		246
+	],
+	"camera_position": [
+		-180,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
